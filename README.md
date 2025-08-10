@@ -53,6 +53,7 @@
    - Desain tugas sulit diselesaikan AI dalam one-shot prompt.
    - Gunakan data unik, aturan dinamis, input runtime, atau interaksi multi-tahap.
    - Berikan bukti bahwa seluruh tubes yang dibuat tidak dapat diselesaikan dalam satu prompting, dapat berupa video atau bukti lainnya.
+   - Anti LLM hanya cukup dibuktikan pada salah satu tubes, tidak perlu semuanya.
    
    
    ## 📂 Pengerjaan dan Pengumpulan

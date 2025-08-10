@@ -26,6 +26,7 @@
    - Originalitas: belum pernah dijadikan Tubes sebelumnya atau disebutkan pada dokumen di situs Pak Rinaldi; tidak ada implementasi identik di internet (perbedaan implementasi diperbolehkan).
    
    Gunakan dokumen-dokumen di situs Pak Rinaldi sebagai referensi. Sertakan daftar referensi yang relevan untuk tiap Tubes.
+   Template dan struktur dibebaskan.
    
    ## Spesifikasi Bonus (1100+ Poin)
    
